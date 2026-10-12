@@ -158,7 +158,7 @@ For `silver.erp_px_cat_g1v2`:
 
 The Silver tables also include a `dwh_create_date` technical column to record when a row is created in the warehouse.
 
-Relevant scripts: [View Silver Scripts](./scripts/silver/).
+Relevant scripts: [View Silver Scripts](../scripts/silver/).
 
 ## 8. Gold Layer — Analytical Data Model
 
@@ -190,7 +190,7 @@ The customer and product dimensions are connected to the fact view using `custom
 
 The model separates descriptive customer and product attributes from transactional sales measures, making it easier to analyse sales by customer, product, category, and date.
 
-Relevant scripts: [View Gold Scripts](./scripts/gold/). The Gold views are defined using `CREATE OR ALTER VIEW`; they are virtual tables rather than physically materialised tables.
+Relevant scripts: [View Gold Scripts](../scripts/gold/). The Gold views are defined using `CREATE OR ALTER VIEW`; they are virtual tables rather than physically materialised tables.
 
 ## 9. Data Quality and Validation
 
