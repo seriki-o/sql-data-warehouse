@@ -16,6 +16,8 @@ The warehouse follows the Medallion Architecture, with three layers:
 - **Silver:** Cleans, standardises, and transforms data to improve consistency and quality.
 - **Gold:** Integrates the transformed data into customer and product dimensions and a sales fact view.
 
+![SQL Server Data Warehouse Architecture](./docs/high-level-architecture.png)
+
 ## Technologies
 
 - Microsoft SQL Server
@@ -77,5 +79,11 @@ Refer to the [technical documentation](./docs/technical_documentation.md) for im
 
 **O. Seriki**
 
-[GitHub Profile](https://github.com/seriki-o)
-[LinkedIn Profile](https://www.linkedin.com/in/oreoluwa-seriki-51a30424a)
+<p align="center">
+  <a href="https://github.com/seriki-o">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/oreoluwa-seriki-51a30424a)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
