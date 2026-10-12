@@ -89,7 +89,7 @@ The Bronze layer provides the initial landing area for the source data.
 
 No intentional business transformations are performed in this layer. The objective is to retain the source data in a form suitable for subsequent processing.
 
-Relevant scripts: [View Bronze Scripts](./scripts/bronze/) and [Database Initialisation Script](../scripts/init_database.sql).
+Relevant scripts: [View Bronze Scripts](../scripts/bronze/) and [Database Initialisation Script](../scripts/init_database.sql).
 
 ### Data Flow
 
