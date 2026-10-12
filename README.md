@@ -80,6 +80,8 @@ This model supports analysis of sales across customers and products.
 5. Run the Bronze and Silver loading procedures in sequence.
 6. Create or update the Gold views and run the data quality checks.
 
+Refer to the [Technical Documentation](./docs/technical_documentation.md) for implementation details and execution guidance.
+
 ## Connect
 
 [GitHub](https://github.com/seriki-o) · [LinkedIn](https://www.linkedin.com/in/oreoluwa-seriki-51a30424a/)
