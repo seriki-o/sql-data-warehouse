@@ -79,11 +79,6 @@ Refer to the [technical documentation](./docs/technical_documentation.md) for im
 
 **O. Seriki**
 
-<p align="left">
-  <a href="https://github.com/seriki-o">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/oreoluwa-seriki-51a30424a)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+## Connect
+
+[GitHub](https://github.com/seriki-o) · [LinkedIn](https://www.linkedin.com/in/oreoluwa-seriki-51a30424a/)
